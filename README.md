@@ -23,4 +23,6 @@ The principal objectives of this TFM are:
 
 NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot, development of a boards, space analysis and more can be found in the thesis.
 
+**Here down below, you can see a few images from the developed project:**
+
 ![image alt](https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/ef7385da50431d6992b2e89d9d66e3cb9c6e5af8/General_photos/schematic_photo.jpg)
