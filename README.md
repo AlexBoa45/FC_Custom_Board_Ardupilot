@@ -5,7 +5,7 @@ By: Alejandro Boadella
 
 During this early start of the XXI century, drones have taken a very important role in society in multiple aspects. Such as the transport of goods, reconnaissance activities, mapping, firefighting and more. The development of IoT and cheap electronics impulses and leads drones into a promising insight of a better future.
 
-# Motivation and objectives
+# Content
 
 This TFM is devoted to learning, exploring and expanding knowledge of the basic components essential for creating autonomous devices.
 
