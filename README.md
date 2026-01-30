@@ -25,4 +25,6 @@ NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot
 
 **Here down below, you can see a few images from the developed project:**
 
+![image alt](https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/3583acccd5ce117c4259cc1e3f2527e3abc5c9ca/General_photos/PCB3d.jpg)
+
 ![image alt](https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/ef7385da50431d6992b2e89d9d66e3cb9c6e5af8/General_photos/schematic_photo.jpg)
