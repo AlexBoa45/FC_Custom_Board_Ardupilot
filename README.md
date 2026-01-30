@@ -1,4 +1,4 @@
-# Master Theisis Project: 
+# Master Thesis Project, UPC-EETAC: 
 # Design and development of the control PCB for a drone with a study of potential space applications
 
 By: Alejandro Boadella
