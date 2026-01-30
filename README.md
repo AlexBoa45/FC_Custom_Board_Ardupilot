@@ -17,4 +17,4 @@ The principal objectives of this TFM are:
 - Create the drivers to manage the drone control PCB with ArduPilot.
 - Evaluate the current design and expose space requirements.
 
-This repository contains all the documentation developed during the TFM. All the design has been developed in Altium. BOM, CPL, Gerber, Masther thesis and additional files can be found in this repository.
+This repository contains all the documentation developed during the TFM. All the design has been developed in Altium. BOM, CPL, Gerber, Master thesis and additional files can be found in this repository.
