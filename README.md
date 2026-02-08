@@ -31,4 +31,4 @@ NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot
 
 <img src="https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/4bb3845e29bb14c5a4ae7ab09ec546ff5d5de90e/General_photos/drone_pcb3.jpeg" width="75%">
 
-<img src="https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/ef7385da50431d6992b2e89d9d66e3cb9c6e5af8/General_photos/schematic_photo.jpg" width="100%">
+<img src="https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/89649b5d158e30e893c4cb110a408c59873b5d14/General_photos/schematics_photo.jpg" width="100%">
