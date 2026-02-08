@@ -19,7 +19,9 @@ The principal objectives of this TFM are:
 
 **All the objectives have been accomplished. This project was developed over 5 months and involved the design of my very first PCB. The result is a fully functional PCB that can be used in a drone and has been successfully ported to the ArduPilot firmware. The magnetometer and MicroSD capabilities are not yet functional and require further improvement; however, the remaining sensors and system capabilities are fully operational.**
 
-**This repository contains all the documentation developed during the TFM. All the design has been developed in Altium. BOM, CPL, Gerber, Master thesis and additional files can be found in this repository. IMPORTANT: BOM, schematics and altium files contain old HSE clock (incompatible with Ardupilot), functional flight controller version carries ASEMB-24.000MHZ-LC-T HSE clock, not SIT1602-22-33E-26.000000D.** 
+**This repository contains all the documentation developed during the TFM. All the design has been developed in Altium. BOM, CPL, Gerber, Master thesis and additional files can be found in this repository.** 
+
+**IMPORTANT: BOM, schematics and altium files contain old HSE clock (incompatible with Ardupilot), functional flight controller version carries ASEMB-24.000MHZ-LC-T HSE clock, not SIT1602-22-33E-26.000000D.**
 
 NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot, development of a boards, space analysis and more can be found in the thesis.
 
