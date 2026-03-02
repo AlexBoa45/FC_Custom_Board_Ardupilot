@@ -17,7 +17,7 @@ The principal objectives of this TFM are:
 - Create the drivers to manage the drone control PCB with ArduPilot.
 - Evaluate the current design and expose space requirements.
 
-**All the objectives have been accomplished. This project was developed over 5 months and involved the design of my very first PCB. The result is a fully functional PCB that can be used in a drone and has been successfully ported to the ArduPilot firmware. The magnetometer and MicroSD capabilities are not yet functional and require further improvement; however, the remaining sensors and system capabilities are fully operational.**
+**All the objectives have been accomplished. This project was developed over 5 months and involved the design of my very first PCB. The result is a fully functional PCB that can be used in a drone and has been successfully ported to the ArduPilot firmware. The magnetometer and MicroSD capabilities are not yet functional and require further improvement; however, the remaining sensors and system capabilities are fully operational. The microSD is most probably not operational due to hwdef file definition issues and poor routing, and the magnetometer is not operational due to manufacturer-related problems.**
 
 This repository contains all the documentation developed during the TFM. All the design has been developed in Altium. BOM, CPL, Gerber, Master thesis and additional files can be found in this repository.
 
