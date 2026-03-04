@@ -7,7 +7,7 @@ During this early start of the XXI century, drones have taken a very important r
 
 # Content
 
-This TFM is devoted to learning, exploring and expanding knowledge of the basic components essential for creating autonomous devices.
+This TFM (project) is devoted to learning, exploring and expanding knowledge of the basic components essential for creating autonomous devices.
 
 Control and power distribution boards are critical subsystems in unmanned vehicles. This project focuses on the complete design process of a dedicated drone control PCB. Furthermore, it includes a study of potential space applications and their specific technical requirements.
 
@@ -16,6 +16,8 @@ The principal objectives of this TFM are:
 - Develop a functional drone control PCB.
 - Create the drivers to manage the drone control PCB with ArduPilot.
 - Evaluate the current design and expose space requirements.
+
+TFE-Alejandro_Boadella.pdf is the main development document created.
 
 **All the objectives have been accomplished. This project was developed over 5 months and involved the design of my very first PCB. The result is a fully functional PCB that can be used in a drone and has been successfully ported to the ArduPilot firmware. The magnetometer and MicroSD capabilities are not yet functional and require further improvement; however, the remaining sensors and system capabilities are fully operational. The microSD is most probably not operational due to hwdef file definition issues and poor routing, and the magnetometer is not operational due to manufacturer-related problems.**
 
