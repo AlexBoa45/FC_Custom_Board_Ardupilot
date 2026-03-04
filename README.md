@@ -43,6 +43,6 @@ NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot
 
 ## Tests: (autonomous flight has been tested and it actually work, no video has been done tho)
 
-[![Watch the video](https://img.youtube.com/vi/8rlyB9k72sw/0.jpg)](https://www.youtube.com/watch?v=8rlyB9k72sw)
+[![Watch the video](https://img.youtube.com/vi/3_edOLgjn7w/0.jpg)](https://youtu.be/3_edOLgjn7w)
 
 [![Watch the video](https://img.youtube.com/vi/a62x8s5vOFY/0.jpg)](https://youtu.be/a62x8s5vOFY)
