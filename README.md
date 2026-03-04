@@ -33,10 +33,16 @@ NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot
 
 [![Watch the video](https://img.youtube.com/vi/8rlyB9k72sw/0.jpg)](https://www.youtube.com/watch?v=8rlyB9k72sw)
 
-**Here down below, you can see a few images from the developed project:**
+## Here down below, you can see a few images from the developed project:
 
 <img src="https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/3583acccd5ce117c4259cc1e3f2527e3abc5c9ca/General_photos/PCB3d.jpg" width="50%">
 
 <img src="https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/4bb3845e29bb14c5a4ae7ab09ec546ff5d5de90e/General_photos/drone_pcb3.jpeg" width="75%">
 
 <img src="https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/89649b5d158e30e893c4cb110a408c59873b5d14/General_photos/schematics_photo.jpg" width="100%">
+
+## Tests: (autonomous flight has been tested and it actually work, no video has been done tho)
+
+[![Watch the video](https://img.youtube.com/vi/8rlyB9k72sw/0.jpg)](https://www.youtube.com/watch?v=8rlyB9k72sw)](https://youtu.be/3_edOLgjn7w)
+
+[![Watch the video](https://img.youtube.com/vi/a62x8s5vOFY/0.jpg)](https://youtu.be/a62x8s5vOFY)
