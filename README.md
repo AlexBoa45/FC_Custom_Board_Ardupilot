@@ -27,11 +27,11 @@ NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot
 
 ## Simple Ardupilot Porting
 
-[![Watch the video](https://www.youtube.com/watch?v=VTwxMDwfPzs)
+[![Watch the video](https://www.youtube.com/watch?v=VTwxMDwfPzs)]
 
 ## Simple Hardware Explanation
 
-[![Watch the video](https://www.youtube.com/watch?v=8rlyB9k72sw)
+[![Watch the video](https://www.youtube.com/watch?v=8rlyB9k72sw)]
 
 **Here down below, you can see a few images from the developed project:**
 
