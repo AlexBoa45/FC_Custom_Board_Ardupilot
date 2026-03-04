@@ -25,6 +25,14 @@ This repository contains all the documentation developed during the TFM. All the
 
 NOTE: the explanation of how to port a custom PCB flight controller to ArduPilot, development of a boards, space analysis and more can be found in the thesis.
 
+## Simple Ardupilot Porting
+
+[![Watch the video](https://www.youtube.com/watch?v=VTwxMDwfPzs)
+
+## Simple Hardware Explanation
+
+[![Watch the video](https://www.youtube.com/watch?v=8rlyB9k72sw)
+
 **Here down below, you can see a few images from the developed project:**
 
 <img src="https://github.com/AlexBoa45/TFM_Custom_FC_Ardupilot/blob/3583acccd5ce117c4259cc1e3f2527e3abc5c9ca/General_photos/PCB3d.jpg" width="50%">
